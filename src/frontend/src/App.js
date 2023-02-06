@@ -188,7 +188,7 @@ function App() {
             <Footer style={{textAlign: 'center'}}>
                 <Image
                     width={75}
-                    src={"https://user-images.githubusercontent.com/46837379/217007993-fdc815fe-1661-493a-aabb-c007ec16a206.jpg"}
+                    src={"https://user-images.githubusercontent.com/46837379/217014065-3d10c87e-c570-4699-97b5-9956ff704494.png"}
                 />
             </Footer>
         </Layout>
