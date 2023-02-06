@@ -190,7 +190,6 @@ function App() {
                     width={75}
                     src={"https://user-images.githubusercontent.com/46837379/217007993-fdc815fe-1661-493a-aabb-c007ec16a206.jpg"}
                 />
-                {/*By Herval ©2022*/}
             </Footer>
         </Layout>
     </Layout>
